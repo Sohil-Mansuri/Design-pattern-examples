@@ -1,0 +1,15 @@
+D:\Sohil\Programs\StrategyPatternExample\bin\Debug\net7.0\StrategyPatternExample.exe
+D:\Sohil\Programs\StrategyPatternExample\bin\Debug\net7.0\StrategyPatternExample.deps.json
+D:\Sohil\Programs\StrategyPatternExample\bin\Debug\net7.0\StrategyPatternExample.runtimeconfig.json
+D:\Sohil\Programs\StrategyPatternExample\bin\Debug\net7.0\StrategyPatternExample.dll
+D:\Sohil\Programs\StrategyPatternExample\bin\Debug\net7.0\StrategyPatternExample.pdb
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.csproj.AssemblyReference.cache
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.AssemblyInfoInputs.cache
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.AssemblyInfo.cs
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.dll
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\refint\StrategyPatternExample.dll
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.pdb
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\StrategyPatternExample.genruntimeconfig.cache
+D:\Sohil\Programs\StrategyPatternExample\obj\Debug\net7.0\ref\StrategyPatternExample.dll

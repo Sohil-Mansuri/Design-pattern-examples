@@ -1,0 +1,8 @@
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\bin\Debug\LinkovSubstitutionPrincipleExample.exe.config
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\bin\Debug\LinkovSubstitutionPrincipleExample.exe
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\bin\Debug\LinkovSubstitutionPrincipleExample.pdb
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\obj\Debug\LinkovSubstitutionPrincipleExample.csproj.AssemblyReference.cache
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\obj\Debug\LinkovSubstitutionPrincipleExample.csproj.SuggestedBindingRedirects.cache
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\obj\Debug\LinkovSubstitutionPrincipleExample.csproj.CoreCompileInputs.cache
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\obj\Debug\LinkovSubstitutionPrincipleExample.exe
+D:\Sohil\Programs\LinkovSubstitutionPrincipleExample\obj\Debug\LinkovSubstitutionPrincipleExample.pdb
