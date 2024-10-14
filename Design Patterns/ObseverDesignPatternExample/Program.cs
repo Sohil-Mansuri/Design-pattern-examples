@@ -11,7 +11,7 @@ namespace ObseverDesignPatternExample
         static void Main(string[] args)
         {
             INotificationObserver observer1 = new EmailObserver("sohil");
-            INotificationObserver observer2 = new EmailObserver("Misba");
+            INotificationObserver observer2 = new EmailObserver("test");
             INotificationObserver observer3 = new MobileObserver("Jishan");
 
             IPhoneObservable iphoneObserver = new IPhoneObservable();
